@@ -1,5 +1,5 @@
 module FizzBuzz (someFunc, fizzbuzz, lessThan20, tens, number) where
-
+-- Paola Montserrat Ruiz Carmen y America Citlalli Lopez Lemus
 someFunc :: IO ()
 someFunc = putStrLn "someFunc"
 
