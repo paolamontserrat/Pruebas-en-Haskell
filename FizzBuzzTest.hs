@@ -1,5 +1,5 @@
 module Main where
-
+-- Paola Montserrat Ruiz Carmen y America Citlalli Lopez Lemus
 import Test.Tasty
 import Test.Tasty.HUnit
 import FizzBuzz
