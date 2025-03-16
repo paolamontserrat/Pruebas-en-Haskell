@@ -1,5 +1,5 @@
 module Bowling where
-
+-- Paola Montserrat Ruiz Carmen y America Citlalli Lopez Lemus
 data Frame = Open Int Int
            | Spare Int Int
            | Strike Int Int
